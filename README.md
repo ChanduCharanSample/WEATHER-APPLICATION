@@ -81,3 +81,8 @@ The Weather Application offers a simple yet functional way for users to get real
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/2b1cd43d-358f-4462-85f1-451d69c214c4)
+
+![Image](https://github.com/user-attachments/assets/2bbb3ada-5700-4b03-9a4c-0c4db5791315)
+
+![Image](https://github.com/user-attachments/assets/81c79916-207e-4a0d-978e-084b14138f2c)
